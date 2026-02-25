@@ -28,7 +28,7 @@ Modeling Techniques: Support Vector Machine (SVM), Logistic Regression, Naive Ba
 
 Vectorization: TF-IDF
 
-Backend Framework (Optional): Flask / FastAPI
+Backend Framework (Optional): Flask 
 
 Frontend (Optional): HTML, CSS, JavaScript
 
